@@ -19,4 +19,4 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/DRAGON-NOOB/URLuploader-With-Hotstar)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/MY-Tgworld/URLuploader-With-Hotstar)
