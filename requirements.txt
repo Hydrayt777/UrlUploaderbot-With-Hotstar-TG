@@ -10,3 +10,4 @@ tgcrypto
 sqlalchemy
 psycopg2-binary
 feedparser
+git+https://github.com/FaArIsH/youtube-dl
