@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hello,
-This is a Telegram URL Upload Bot made by @prgofficial
+This is a Telegram URL Upload Bot made by @noob_admin
 
 <b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
 
@@ -45,8 +45,7 @@ Expires on: 31/12/2020"""
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
-   
-<b>👉 Join For New Movies :</b> 👉 <a href="https://t.me/joinchat/AAAAAEw1pO1bBX6ylAb0hQ">JOIN</a>
+ 
 
 --------
 Send /me to know current plan details
