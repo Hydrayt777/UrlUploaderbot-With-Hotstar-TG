@@ -6,8 +6,8 @@ This is a Telegram URL Upload Bot made by @noob_admin
 
 /help for more details..
 
-Support Group : ""
-© @noob_admin""
+Support Group :
+© @noob_admin"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 CONTACT @noob_admin</B>"
